@@ -1,0 +1,562 @@
+[
+  {
+    "Branch": "CSE",
+    "Admission Type": "Regular",
+    "Category": "Full Reimbursement",
+    "Fee Structure (₹)": 9320,
+    "Scholarship": "TS ePASS",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "CSE",
+    "Admission Type": "Regular",
+    "Category": "Partial",
+    "Fee Structure (₹)": 114320,
+    "Scholarship": "Partial Reimbursement",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "CSE",
+    "Admission Type": "Regular",
+    "Category": "Category A",
+    "Fee Structure (₹)": 149320,
+    "Scholarship": "Merit Scholarship",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "CSE",
+    "Admission Type": "Regular",
+    "Category": "Category B",
+    "Fee Structure (₹)": 149320,
+    "Scholarship": "Merit Scholarship",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "IT",
+    "Admission Type": "Regular",
+    "Category": "Full Reimbursement",
+    "Fee Structure (₹)": 9320,
+    "Scholarship": "TS ePASS",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "IT",
+    "Admission Type": "Regular",
+    "Category": "Partial",
+    "Fee Structure (₹)": 114320,
+    "Scholarship": "Partial Reimbursement",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "IT",
+    "Admission Type": "Regular",
+    "Category": "Category A",
+    "Fee Structure (₹)": 149320,
+    "Scholarship": "Merit Scholarship",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "IT",
+    "Admission Type": "Regular",
+    "Category": "Category B",
+    "Fee Structure (₹)": 149320,
+    "Scholarship": "Merit Scholarship",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "CSE (AI&ML)",
+    "Admission Type": "Regular",
+    "Category": "Full Reimbursement",
+    "Fee Structure (₹)": 6320,
+    "Scholarship": "TS ePASS",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "CSE (AI&ML)",
+    "Admission Type": "Regular",
+    "Category": "Partial",
+    "Fee Structure (₹)": 111320,
+    "Scholarship": "Partial Reimbursement",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "CSE (AI&ML)",
+    "Admission Type": "Regular",
+    "Category": "Category A",
+    "Fee Structure (₹)": 146320,
+    "Scholarship": "Merit Scholarship",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "CSE (AI&ML)",
+    "Admission Type": "Regular",
+    "Category": "Category B",
+    "Fee Structure (₹)": 146320,
+    "Scholarship": "Merit Scholarship",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "CIVIL",
+    "Admission Type": "Regular",
+    "Category": "Full Reimbursement",
+    "Fee Structure (₹)": 9320,
+    "Scholarship": "TS ePASS",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "CIVIL",
+    "Admission Type": "Regular",
+    "Category": "Partial",
+    "Fee Structure (₹)": 114320,
+    "Scholarship": "Partial Reimbursement",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "CIVIL",
+    "Admission Type": "Regular",
+    "Category": "Category A",
+    "Fee Structure (₹)": 149320,
+    "Scholarship": "Merit Scholarship",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "CIVIL",
+    "Admission Type": "Regular",
+    "Category": "Category B",
+    "Fee Structure (₹)": 149320,
+    "Scholarship": "Merit Scholarship",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "ECE",
+    "Admission Type": "Regular",
+    "Category": "Full Reimbursement",
+    "Fee Structure (₹)": 9320,
+    "Scholarship": "TS ePASS",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "ECE",
+    "Admission Type": "Regular",
+    "Category": "Partial",
+    "Fee Structure (₹)": 114320,
+    "Scholarship": "Partial Reimbursement",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "ECE",
+    "Admission Type": "Regular",
+    "Category": "Category A",
+    "Fee Structure (₹)": 149320,
+    "Scholarship": "Merit Scholarship",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "ECE",
+    "Admission Type": "Regular",
+    "Category": "Category B",
+    "Fee Structure (₹)": 149320,
+    "Scholarship": "Merit Scholarship",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "EEE",
+    "Admission Type": "Regular",
+    "Category": "Full Reimbursement",
+    "Fee Structure (₹)": 9320,
+    "Scholarship": "TS ePASS",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "EEE",
+    "Admission Type": "Regular",
+    "Category": "Partial",
+    "Fee Structure (₹)": 114320,
+    "Scholarship": "Partial Reimbursement",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "EEE",
+    "Admission Type": "Regular",
+    "Category": "Category A",
+    "Fee Structure (₹)": 149320,
+    "Scholarship": "Merit Scholarship",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "EEE",
+    "Admission Type": "Regular",
+    "Category": "Category B",
+    "Fee Structure (₹)": 149320,
+    "Scholarship": "Merit Scholarship",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "MECH",
+    "Admission Type": "Regular",
+    "Category": "Full Reimbursement",
+    "Fee Structure (₹)": 9320,
+    "Scholarship": "TS ePASS",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "MECH",
+    "Admission Type": "Regular",
+    "Category": "Partial",
+    "Fee Structure (₹)": 114320,
+    "Scholarship": "Partial Reimbursement",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "MECH",
+    "Admission Type": "Regular",
+    "Category": "Category A",
+    "Fee Structure (₹)": 149320,
+    "Scholarship": "Merit Scholarship",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "MECH",
+    "Admission Type": "Regular",
+    "Category": "Category B",
+    "Fee Structure (₹)": 149320,
+    "Scholarship": "Merit Scholarship",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "CSE",
+    "Admission Type": "Lateral Entry",
+    "Category": "Full Reimbursement",
+    "Fee Structure (₹)": 7700,
+    "Scholarship": "TS ePASS",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "CSE",
+    "Admission Type": "Lateral Entry",
+    "Category": "Partial",
+    "Fee Structure (₹)": 112700,
+    "Scholarship": "Partial Reimbursement",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "CSE",
+    "Admission Type": "Lateral Entry",
+    "Category": "Category A",
+    "Fee Structure (₹)": 147700,
+    "Scholarship": "Merit Scholarship",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "CSE",
+    "Admission Type": "Lateral Entry",
+    "Category": "Category B",
+    "Fee Structure (₹)": 147700,
+    "Scholarship": "Merit Scholarship",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "IT",
+    "Admission Type": "Lateral Entry",
+    "Category": "Full Reimbursement",
+    "Fee Structure (₹)": 7700,
+    "Scholarship": "TS ePASS",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "IT",
+    "Admission Type": "Lateral Entry",
+    "Category": "Partial",
+    "Fee Structure (₹)": 112700,
+    "Scholarship": "Partial Reimbursement",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "IT",
+    "Admission Type": "Lateral Entry",
+    "Category": "Category A",
+    "Fee Structure (₹)": 147700,
+    "Scholarship": "Merit Scholarship",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "IT",
+    "Admission Type": "Lateral Entry",
+    "Category": "Category B",
+    "Fee Structure (₹)": 147700,
+    "Scholarship": "Merit Scholarship",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "CSE (AI&ML)",
+    "Admission Type": "Lateral Entry",
+    "Category": "Full Reimbursement",
+    "Fee Structure (₹)": 4700,
+    "Scholarship": "TS ePASS",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "CSE (AI&ML)",
+    "Admission Type": "Lateral Entry",
+    "Category": "Partial",
+    "Fee Structure (₹)": 109700,
+    "Scholarship": "Partial Reimbursement",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "CSE (AI&ML)",
+    "Admission Type": "Lateral Entry",
+    "Category": "Category A",
+    "Fee Structure (₹)": 144700,
+    "Scholarship": "Merit Scholarship",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "CSE (AI&ML)",
+    "Admission Type": "Lateral Entry",
+    "Category": "Category B",
+    "Fee Structure (₹)": 144700,
+    "Scholarship": "Merit Scholarship",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "CIVIL",
+    "Admission Type": "Lateral Entry",
+    "Category": "Full Reimbursement",
+    "Fee Structure (₹)": 7700,
+    "Scholarship": "TS ePASS",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "CIVIL",
+    "Admission Type": "Lateral Entry",
+    "Category": "Partial",
+    "Fee Structure (₹)": 112700,
+    "Scholarship": "Partial Reimbursement",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "CIVIL",
+    "Admission Type": "Lateral Entry",
+    "Category": "Category A",
+    "Fee Structure (₹)": 147700,
+    "Scholarship": "Merit Scholarship",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "CIVIL",
+    "Admission Type": "Lateral Entry",
+    "Category": "Category B",
+    "Fee Structure (₹)": 147700,
+    "Scholarship": "Merit Scholarship",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "ECE",
+    "Admission Type": "Lateral Entry",
+    "Category": "Full Reimbursement",
+    "Fee Structure (₹)": 7700,
+    "Scholarship": "TS ePASS",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "ECE",
+    "Admission Type": "Lateral Entry",
+    "Category": "Partial",
+    "Fee Structure (₹)": 112700,
+    "Scholarship": "Partial Reimbursement",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "ECE",
+    "Admission Type": "Lateral Entry",
+    "Category": "Category A",
+    "Fee Structure (₹)": 147700,
+    "Scholarship": "Merit Scholarship",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "ECE",
+    "Admission Type": "Lateral Entry",
+    "Category": "Category B",
+    "Fee Structure (₹)": 147700,
+    "Scholarship": "Merit Scholarship",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "EEE",
+    "Admission Type": "Lateral Entry",
+    "Category": "Full Reimbursement",
+    "Fee Structure (₹)": 7700,
+    "Scholarship": "TS ePASS",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "EEE",
+    "Admission Type": "Lateral Entry",
+    "Category": "Partial",
+    "Fee Structure (₹)": 112700,
+    "Scholarship": "Partial Reimbursement",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "EEE",
+    "Admission Type": "Lateral Entry",
+    "Category": "Category A",
+    "Fee Structure (₹)": 147700,
+    "Scholarship": "Merit Scholarship",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "EEE",
+    "Admission Type": "Lateral Entry",
+    "Category": "Category B",
+    "Fee Structure (₹)": 147700,
+    "Scholarship": "Merit Scholarship",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "MECH",
+    "Admission Type": "Lateral Entry",
+    "Category": "Full Reimbursement",
+    "Fee Structure (₹)": 7700,
+    "Scholarship": "TS ePASS",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "MECH",
+    "Admission Type": "Lateral Entry",
+    "Category": "Partial",
+    "Fee Structure (₹)": 112700,
+    "Scholarship": "Partial Reimbursement",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "MECH",
+    "Admission Type": "Lateral Entry",
+    "Category": "Category A",
+    "Fee Structure (₹)": 147700,
+    "Scholarship": "Merit Scholarship",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  },
+  {
+    "Branch": "MECH",
+    "Admission Type": "Lateral Entry",
+    "Category": "Category B",
+    "Fee Structure (₹)": 147700,
+    "Scholarship": "Merit Scholarship",
+    "Receipt Status": "Generated",
+    "Fine": "₹20/day (Late Payment)",
+    "Fee Rules": "Fees must be paid in one instalment within two weeks of the 1st Semester. Fine: ₹20/day up to 2 weeks. Readmission fee: ₹500. Fees once paid are non-refundable."
+  }
+]
